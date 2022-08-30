@@ -21,5 +21,7 @@ all relevant performance metrics of the strategy.
 snippet of price_data.csv-
 <img width="691" alt="image" src="https://user-images.githubusercontent.com/71666566/187538672-abf8fc83-ab4a-4951-a959-852521430d1f.png">
 
+
+
 page 1 of performance metrics tearsheet-
 <img width="600" alt="image" src="https://user-images.githubusercontent.com/71666566/187538425-16740d00-1d72-4558-b7a1-ac63edb7522f.png">
