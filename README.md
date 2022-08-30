@@ -25,4 +25,5 @@ snippet of price_data.csv-
 
 page 1 of performance metrics tearsheet-
 
-<img width="600" alt="image" src="https://user-images.githubusercontent.com/71666566/187538425-16740d00-1d72-4558-b7a1-ac63edb7522f.png">
+<img width="806" alt="image" src="https://user-images.githubusercontent.com/71666566/187539118-d19733a7-9ad0-42f3-ab16-b15c9ed3f6ce.png">
+
