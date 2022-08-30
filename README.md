@@ -1,4 +1,4 @@
-# Backtesting-System
+# Trading Strategy Backtesting System
 Event-driven, object oriented backtesting software for custom trading strategies.
 
 ## Logic of the program
