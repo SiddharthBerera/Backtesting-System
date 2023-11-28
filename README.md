@@ -3,8 +3,8 @@ Event-driven, object oriented backtesting software for custom trading strategies
 
 ## Logic of the program
 
-Makes use of the python-binance api connector to retrieve historical price data for the N th minute of the backtest period, then in the stragey object calculates the relevant metrics. Based on these metrics decides whether or not to create a trade signal. If a signal is created, it is sent to the portfolio class which contains the current holdings and these holdings are updated. 
-The backtester object then continues to the N+1 th minute of the backtest period until the strategy has been tested on the whole period.
+Makes use of the python-binance api connector to retrieve historical price data for the N th candle of the backtest period, then in the stragey object calculates the relevant metrics. Based on these metrics decides whether or not to create a trade signal. If a signal is created, it is sent to the portfolio class which contains the current holdings and these holdings are updated. 
+The backtester object then continues to the N+1 th candle of the backtest period until the strategy has been tested on the whole period.
 Such a backtesting software tests the strategy in the order in which a live trading strategy would work and minimises any lookahead bias.
 
 ## How to use it
